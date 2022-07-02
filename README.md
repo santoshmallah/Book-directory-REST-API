@@ -8,6 +8,7 @@ discounted by 30%
 
 ● GET – fetches the book details from the directory. This can include all the books or
 specific books by ID.
+
 ● POST – adds a new book to the directory of books.
 ● PUT – updates any existing book in the directory.
 ● DELETE – delete any existing book from the directory.
